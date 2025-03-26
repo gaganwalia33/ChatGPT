@@ -1,4 +1,5 @@
 # ChatGPT Repository
+gagan walia
 
 ## Overview
 ChatGPT is an advanced AI-powered conversational model developed to facilitate interactive and intelligent chatbot experiences. Built on OpenAI's GPT architecture, it utilizes deep learning techniques to understand, process, and generate human-like text responses. This makes it an ideal solution for various applications such as customer support, virtual assistants, educational tools, content generation, and more.
